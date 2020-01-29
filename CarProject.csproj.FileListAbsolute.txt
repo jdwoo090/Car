@@ -1,0 +1,10 @@
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\bin\Debug\CarProject.exe
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\bin\Debug\CarProject.pdb
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.csprojAssemblyReference.cache
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.exe
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.pdb
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.carForm.resources
+C:\Users\jdwoo090\source\repos\CarProject\CarProject\obj\Debug\CarProject.carSettingsForm.resources
